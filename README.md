@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Skye. I work at [Tencent](https://opensource.tencent.com/) and focus on Cloud Native and Microservices.
+
 <p>
 <img src="https://visitor-badge.glitch.me/badge?page_id=SkyeBeFreeman">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
