@@ -4,6 +4,7 @@ I'm Skye. I work at [Tencent](https://opensource.tencent.com/) and focus on Clou
 
 <p>
 <img src="https://visitor-badge.glitch.me/badge?page_id=SkyeBeFreeman">
+<img src="https://badges.pufler.dev/years/SkyeBeFreeman">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyeBeFreeman" align="right" height="260px" alt="Top Languages">
 </p>
