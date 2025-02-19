@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm Skye. I work at [Tencent](https://opensource.tencent.com/) and focus on Cloud Native and Microservices.
+I'm Skye. I work at [Tencent](https://opensource.tencent.com/) and focus on Cloud Native and Microservices.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<p>
-<img src="https://visitor-badge.glitch.me/badge?page_id=SkyeBeFreeman">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyeBeFreeman" align="right" height="260px" alt="Top Languages">
-</p>
-<img src="https://github-readme-stats.vercel.app/api?username=SkyeBeFreeman&count_private=true&show_icons=true" height="200px" alt="Haotian Zhang's Github Status" >
+<div style="display: flex; justify-content: space-between;">
+<img src="https://github-readme-stats.vercel.app/api?username=SkyeBeFreeman&count_private=true&show_icons=true&rank_icon=percentile" height="200px" alt="Haotian Zhang's Github Status" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyeBeFreeman&layout=compact" height="200px" alt="Top Languages">
+</div>
