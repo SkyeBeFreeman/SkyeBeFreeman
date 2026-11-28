@@ -4,7 +4,7 @@
   </defs>
   <rect x="0.5" y="0.5" width="799" height="283" rx="6" fill="#ffffff" stroke="#d0d7de"/>
   <text x="24" y="36" font-size="16" font-weight="600" fill="#1f2328">Haotian Zhang's GitHub Stats</text>
-  <text x="776" y="36" font-size="12" text-anchor="end" fill="#656d76"><tspan font-weight="600" fill="#1f2328">392</tspan><tspan> profile views</tspan><tspan fill="#d8dee4"> · </tspan><tspan>Since 2016</tspan></text>
+  <text x="776" y="36" font-size="12" text-anchor="end" fill="#656d76"><tspan font-weight="600" fill="#1f2328">407</tspan><tspan> profile views</tspan><tspan fill="#d8dee4"> · </tspan><tspan>Since 2016</tspan></text>
   <line x1="24" y1="52" x2="776" y2="52" stroke="#d8dee4"/>
   <line x1="400" y1="66" x2="400" y2="252" stroke="#d8dee4"/>
   <text x="24" y="78" font-size="11" font-weight="600" letter-spacing="0.6" fill="#656d76">OVERVIEW</text>
@@ -24,11 +24,11 @@
   <text x="200" y="112" font-size="12" fill="#656d76">Total Forks</text>
   <text x="200" y="136" font-size="18" font-weight="600" fill="#1f2328">45</text>
   <text x="24" y="166" font-size="12" fill="#656d76">Total PRs</text>
-  <text x="24" y="190" font-size="18" font-weight="600" fill="#1f2328">901</text>
+  <text x="24" y="190" font-size="18" font-weight="600" fill="#1f2328">908</text>
   <text x="200" y="166" font-size="12" fill="#656d76">Total Issues</text>
-  <text x="200" y="190" font-size="18" font-weight="600" fill="#1f2328">177</text>
+  <text x="200" y="190" font-size="18" font-weight="600" fill="#1f2328">188</text>
   <text x="24" y="220" font-size="12" fill="#656d76">Public Repos</text>
-  <text x="24" y="244" font-size="18" font-weight="600" fill="#1f2328">41</text>
+  <text x="24" y="244" font-size="18" font-weight="600" fill="#1f2328">42</text>
   <text x="200" y="220" font-size="12" fill="#656d76">Languages</text>
   <text x="200" y="244" font-size="18" font-weight="600" fill="#1f2328">11</text>
   <circle cx="420" cy="144" r="4" fill="#00ADD8"/>
